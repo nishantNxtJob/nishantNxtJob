@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nishant ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/161589/screenshots/2126344/freelance_dribbble_shot_v7.gif">
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=nishantNxtJob&style=flat-square" align="center" />
+<!-- <img src="https://komarev.com/ghpvc/?username=nishantNxtJob&style=flat-square" align="center" /> -->
 </div>
 <br/>
 <h3 align="left">Connect with me:</h3>
